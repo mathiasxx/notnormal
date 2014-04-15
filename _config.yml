@@ -4,7 +4,7 @@
 
 # Site
 title: Not Normal
-subtitle: Next Show is Friday, Feb 7th 4-6pm -05:00 @ ARTxFM
+subtitle: Next Show is Friday, May 9th 4-6pm GMT-5 @ ARTxFM.com
 description: Occuring approximately every 4th Friday 4pm-6pm, artxfm.com
 author: Mathias Kolehmainen
 email: mathiask@computer.org
@@ -74,7 +74,7 @@ disqus_shortname:
 ## Plugins: https://github.com/tommy351/hexo/wiki/Plugins
 ## Themes: https://github.com/tommy351/hexo/wiki/Themes
 #theme: light
-theme: modernist 
+theme: modernist
 exclude_generator:
 
 # Deployment
@@ -82,4 +82,3 @@ exclude_generator:
 deploy:
   type: github
   repository: git@github.com:mathiasxx/notnormal.git
-
